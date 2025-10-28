@@ -1,5 +1,3 @@
-# racunalniski-praktikum
-Repozitorij je namenjen predmetu Računalniški praktikum.
 # Računalniški praktikum
 Ctrl + Z (undo)
 Ctrl + O (open file)
