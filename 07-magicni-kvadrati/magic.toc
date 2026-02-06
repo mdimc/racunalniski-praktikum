@@ -4,5 +4,5 @@
 \contentsline {subsection}{\numberline {2.1}Kvadrat ">Lo Shu"<}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Kulturna pomembnost}{2}{}%
 \contentsline {subsection}{\numberline {2.3}Zgodnji kvadrati reda 4}{3}{}%
-\contentsline {section}{\numberline {3}Osnovne lastnosti}{4}{}%
+\contentsline {section}{\numberline {3}Osnovne lastnosti}{3}{}%
 \contentsline {section}{\numberline {4}Primeri}{5}{}%
